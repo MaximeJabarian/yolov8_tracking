@@ -1,4 +1,5 @@
 # YOLO Traffic Tracking Project
+![Alt text for the image](Demo.png)
 
 ## Introduction
 This project utilizes the YOLO (You Only Look Once) v8 model for real-time traffic tracking, particularly focusing on vehicle detection in video streams. By leveraging the power of YOLO's deep learning capabilities, this project aims to provide insights into traffic flow, vehicle count, and other relevant metrics that can aid in traffic management and analysis.
