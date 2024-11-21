@@ -2,7 +2,7 @@
 ![Alt text for the image](Demo.jpg)
 
 ## Introduction
-This project utilizes the YOLO (You Only Look Once) v8 model for real-time traffic tracking, particularly focusing on vehicle detection in video streams. By leveraging the power of YOLO's deep learning capabilities, this project aims to provide insights into traffic flow, vehicle count, and other relevant metrics that can aid in traffic management and analysis.
+This project uses the YOLO (You Only Look Once) v8 model for real-time traffic tracking, particularly focusing on vehicle detection in video streams. By leveraging the power of YOLO's deep learning capabilities, this project aims to provide insights into traffic flow, vehicle count, and other relevant metrics that can aid in traffic management and analysis.
 
 ## Project Setup
 
@@ -50,11 +50,6 @@ Replace `<path_to_your_video>` with the actual path to the video file you wish t
 ## Contributing
 
 Contributions to this project are welcome! Please fork the repository, make your changes, and submit a pull request.
-
-## Acknowledgements
-
-- Thanks to the Ultralytics team for providing the YOLOv8 model.
-- This project was inspired by the need for advanced traffic management solutions in urban areas.
 
 ## Contact
 
